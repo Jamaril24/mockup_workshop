@@ -1,8 +1,15 @@
-
-li{
-    display: inline-block;
-    width: 100px;
-    height: 100px;
-    padding: 3px;
+target{
+    padding: 30px;
     text-align: right;
+}
+
+ h2{
+     padding: 20px;
+     text-align: center;
+     font-size: 30px;
+     border-style: solid;
+
+ }
+ img {
+ margin: 20px;
  }
