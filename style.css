@@ -8,8 +8,12 @@ target{
      text-align: center;
      font-size: 30px;
      border-style: solid;
-
  }
+nav{
+   float: right;
+    padding: 25px;
+}
+
  img {
  margin: 20px;
  }
