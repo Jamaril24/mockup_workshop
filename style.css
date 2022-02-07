@@ -1,15 +1,16 @@
 body{
-  background-color: rgb(245, 194, 241);
   border: solid black;
+  background-color: rgb(229, 153, 213);
 }
 
-header{
+img{
+  float: left;
   padding: 20px;
 }
 
 nav{
-  padding: 40px;
-  float:right;
+  padding: 20px;
+  float: right;
 }
 
 h1{
